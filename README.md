@@ -2,7 +2,7 @@
 
 **Eclipse X** is a powerful and feature-rich Discord bot designed to enhance your server experience with a variety of features, including audio editing, image manipulation, and more!
 
-[![License: All Rights Reserved](https://img.shields.io/badge/License-All--Rights--Reserved-red?style=flat-square)](https://github.com/AbuJaan/EclipseX/edit/main/README.md)
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All--Rights--Reserved-red?style=flat-square)](https://github.com/AbuJaan/EclipseX/blob/main/LICENSE)
 
 [![Discord](https://img.shields.io/discord/806083380458291220?color=7289DA&label=Support%20Server&logo=discord&style=flat-square)](https://discord.gg/mKZGkEK39m)
 [![Version](https://img.shields.io/badge/version-2.1.0-blue?style=flat-square)](https://github.com/AbuJaan/EclipseX)
